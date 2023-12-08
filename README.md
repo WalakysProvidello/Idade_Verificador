@@ -1,8 +1,3 @@
-👋 Obrigado por me enviar esse código! Estou feliz em ajudar. Aqui está um exemplo de arquivo README com emojis e caminho para a imagem:
-
-markdown
-Download
-Copy code
 # Exemplo de Projeto em Python
 
 Um exemplo simples de projeto em Python que utiliza a biblioteca tkinter para criar uma interface gráfica. Este projeto verifica se o usuário possui acesso permitido com base no nome e idade fornecidos.
