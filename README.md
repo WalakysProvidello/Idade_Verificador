@@ -9,7 +9,9 @@ Um exemplo simples de projeto em Python que utiliza a biblioteca tkinter para cr
 
 🌟 Ao executar este projeto, você verá uma janela azul com um botão cinza que lê "Verificar Acesso". Digite seu nome e idade nos campos apropriados e clique no botão para verificar se você possui acesso permitido.
 
-📝 **Caminho para a imagem**: `/assets/screenshot.png`
+📝 **Caminho para a imagem**: 
+
+<img src="https://github.com/WalakysProvidello/Idade_Verificador/blob/ddee46e4beebff4f705825b016d13143ba697e2d/imagem_2023-12-07_211447175.png" alt="walakysprovidello" style="flex: 1;">
 
 🚀 **Para executar este projeto, siga estas etapas:**
 
